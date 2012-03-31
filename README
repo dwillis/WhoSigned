@@ -1,0 +1,1 @@
+This script returns a CSV file of signers to Referendum 71 in Washington state listed at http://whosigned.org/. The name parts of the signers contain embedded HTML, but hey, it works.
